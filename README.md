@@ -3,7 +3,7 @@ Implmentation of several transformer-based architectures compared on a classific
 
 ### Implemented networks
 - [x] [ViT](https://arxiv.org/abs/2010.11929)
-- [ ] [CrossViT](https://arxiv.org/pdf/2103.14899.pdf)
+- :white_check_mark: [CrossViT](https://arxiv.org/pdf/2103.14899.pdf)
 - [x] [CrossFormer](https://arxiv.org/abs/2108.00154)
 - [ ] [CvT](https://arxiv.org/pdf/2103.15808.pdf)
 - [ ] [SwinTransformer](https://arxiv.org/pdf/2103.14030.pdf)
