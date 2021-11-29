@@ -2,11 +2,11 @@
 Implmentation of several transformer-based architectures compared on a classification task.
 
 ### Implemented networks
-:heavy_check_mark: [ViT](https://arxiv.org/abs/2010.11929)
-:white_check_mark: [CrossViT](https://arxiv.org/pdf/2103.14899.pdf)
-:heavy_check_mark: [CrossFormer](https://arxiv.org/abs/2108.00154)
-:white_check_mark: [CvT](https://arxiv.org/pdf/2103.15808.pdf)
-:white_check_mark: [SwinTransformer](https://arxiv.org/pdf/2103.14030.pdf)
+- [x] [ViT](https://arxiv.org/abs/2010.11929)
+- [ ] [CrossViT](https://arxiv.org/pdf/2103.14899.pdf)
+- [x] [CrossFormer](https://arxiv.org/abs/2108.00154)
+- [ ] [CvT](https://arxiv.org/pdf/2103.15808.pdf)
+- [ ] [SwinTransformer](https://arxiv.org/pdf/2103.14030.pdf)
 
 
 ### Usage
